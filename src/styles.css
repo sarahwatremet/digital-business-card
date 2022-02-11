@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;400;600&display=swap');
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    background-color: #FFDADA;
+}
+
+.compoContainer {
+    display: flex;
+    flex-direction: column;
+    flex-basis: auto;
+    background-color: #1A1B21;
+    width: 317px;
+    top: 20px;
+    margin: 20px 0 20px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.introduction {
+    width: 317px;
+    top: 53px;
+    box-sizing: border-box;
+    border-radius: 10px 10px 0px 0px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.introduction > h2 {
+    top: 20px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.introduction > h4 {
+    top : 45px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 5px;
+    color : #FFDADA;
+}
+
+.link--buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 5px;
+    width: 115px;
+    height: 35px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    align-items: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 5px;
+}
+
+.email:hover {
+    background-color: #FFDADA;
+}
+
+.email > img {
+    margin: 5px;
+    max-width: 120%;
+    max-height: 120%;
+    border-radius: 0%;
+}
+
+.email > a {
+    text-decoration: none;
+    color: #1A1B21;
+}
+
+.email > a:visited {
+    text-decoration: none;
+    color: #1A1B21;
+}
+
+.linkedin {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 5px;
+    width: 115px;
+    height: 35px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    align-items: center;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 5px;
+    background-color: #5093E2;
+    color: #F5F5F5;
+}
+
+.linkedin:hover {
+    background-color: #F5F5F5;
+    color: #5093E2;
+}
+
+.linkedin > img {
+    margin: 5px;
+    max-width: 120%;
+    max-height: 120%;
+    border-radius: 0%;
+    background-color: #5093E2;
+}
+
+.linkedin > a {
+    text-decoration: none;
+    color: #F5F5F5;
+}
+
+.linkedin > a:visited {
+    text-decoration: none;
+    color: #F5F5F5;
+}
+
+.linkedin > a:hover {
+    background-color: #F5F5F5;
+    color: #5093E2;
+}
+
+.about {
+    width: 317px;
+    box-sizing: border-box;
+    font-weight: 400;
+}
+
+.about > h3 {
+    padding: 20px 30px 5px 30px;
+    margin: 0;
+    color : #F5F5F5;
+    font-weight: bold;
+}
+
+.about > p {
+    padding: 0px 30px 20px 30px;
+    margin: 0;
+    color: #DCDCDC;
+    font-weight: lighter;
+    text-justify: inter-word;
+}
+
+.interests {
+    width: 317px;
+    box-sizing: border-box;
+    font-weight: 400;
+}
+
+.interests > h3 {
+    color : #F5F5F5;
+    font-weight: bold;
+    padding: 20px 30px 5px 30px;
+    margin: 0;
+}
+
+.interests > p {
+    color: #DCDCDC;
+    font-weight: lighter;
+    text-justify: inter-word;
+    padding: 0px 30px 40px 30px;
+    margin: 0;
+}
+
+.interests > p > a {
+    color: #DCDCDC;
+    text-decoration: none;
+}
+
+.interests > p > a:visited {
+    color: #FB929E;
+    text-decoration: none;
+} 
+
+.interests > p > a:hover {
+    background-color: #FFDFDF;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 317px;
+    height: 65px;
+    padding: 0 60px 0 60px;
+    box-sizing: border-box;
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+}
+

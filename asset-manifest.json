@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.7580bfd3.css",
+    "main.js": "/digital-business-card/static/js/main.9cadce97.js",
+    "static/media/SarahWatremet_CV.pdf": "/digital-business-card/static/media/SarahWatremet_CV.c97f54956bcf15f110a8.pdf",
+    "static/media/sw-picture.jpeg": "/digital-business-card/static/media/sw-picture.b9748bf333780d3c851b.jpeg",
+    "static/media/linkedin.png": "/digital-business-card/static/media/linkedin.8654420de4716885d572.png",
+    "static/media/github.svg": "/digital-business-card/static/media/github.9ecc7b1f25c05cabac4ee9da01e7cce3.svg",
+    "static/media/cv.svg": "/digital-business-card/static/media/cv.c70947cc5666450ae514edeaaa77716d.svg",
+    "static/media/email.svg": "/digital-business-card/static/media/email.21acdcbf6c247705d4f4d4938278a9d9.svg",
+    "static/media/linkedin.svg": "/digital-business-card/static/media/linkedin.004a6b71e174296556a8c11027947d2c.svg",
+    "index.html": "/digital-business-card/index.html",
+    "main.7580bfd3.css.map": "/digital-business-card/static/css/main.7580bfd3.css.map",
+    "main.9cadce97.js.map": "/digital-business-card/static/js/main.9cadce97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7580bfd3.css",
+    "static/js/main.9cadce97.js"
+  ]
+}
